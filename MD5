@@ -1,0 +1,14 @@
+a12e124e2c2325e5be1e9e151b60c3dc *DESCRIPTION
+518b063c1d7be25d32113207a5784e35 *NAMESPACE
+d1f2ebe9207ff1ff33eb52392216a1a8 *NEWS
+7ced17326673f5a874579ebad5471238 *R/create.R
+60884973943bbb54cdece1fd6c1057b9 *R/grnn-package.r
+163da971b000b5e091e16a5f66d9d0fd *R/guess.r
+f8ffdacc3e0a8d483bfdb5230d2b4218 *R/kernel.R
+2ac895d119f2d334c8a568458ac276a8 *R/learn.R
+dd7c443c092d3f33a76848fe7c6f3d19 *R/smooth.R
+15a6ca3b496e3c039af5d649f0ba9975 *inst/CITATION
+8b6073bd92fda7bbdab3bc64db4608cb *man/grnn-package.Rd
+b26aa674d25438952842ba72770da423 *man/guess.Rd
+c032388a44ab4eadcc9c5b31ab7956ce *man/learn.Rd
+56597650af5daab65a9099582f448607 *man/smooth.Rd
